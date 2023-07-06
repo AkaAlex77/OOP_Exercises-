@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{0C67B5E8-B132-4D77-8892-16D566EFCCD4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WildFarm/Program.cs">
+    <Files>
+      <File FileName="Polymorphism_Exercise/Class1.cs" Line="7" Column="1" />
+      <File FileName="WildFarm/Program.cs" Line="1" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Polymorphism_Exercise" expanded="True">
+            <Node name="Polymorphism_Exercise" expanded="True" />
+            <Node name="WildFarm" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WildFarm FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Polymorphism__Exercise FirstBuild="True" />
+</Properties>
