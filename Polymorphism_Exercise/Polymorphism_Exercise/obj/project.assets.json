@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alex/Desktop/OOP_Exercises-/Polymorphism_Exercise/Polymorphism_Exercise/Polymorphism_Exercise.csproj",
+      "projectUniqueName": "/Users/alex/Desktop/OOP_Exercises-Git/Polymorphism_Exercise/Polymorphism_Exercise/Polymorphism_Exercise.csproj",
       "projectName": "Polymorphism_Exercise",
-      "projectPath": "/Users/alex/Desktop/OOP_Exercises-/Polymorphism_Exercise/Polymorphism_Exercise/Polymorphism_Exercise.csproj",
+      "projectPath": "/Users/alex/Desktop/OOP_Exercises-Git/Polymorphism_Exercise/Polymorphism_Exercise/Polymorphism_Exercise.csproj",
       "packagesPath": "/Users/alex/.nuget/packages/",
-      "outputPath": "/Users/alex/Desktop/OOP_Exercises-/Polymorphism_Exercise/Polymorphism_Exercise/obj/",
+      "outputPath": "/Users/alex/Desktop/OOP_Exercises-Git/Polymorphism_Exercise/Polymorphism_Exercise/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alex/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "E5jmzDljoYMV/bNxCH2vlTj3pfmitkKl7qT2v7B5EjMJ7iyy0NI8W8ypU+OkrjZQmgSjNFY+Sfil2TJSkAsu5A==",
+  "dgSpecHash": "wCMlr4rrbqo10DOV0OnlzjFngvQj/bPHMK/LaYVJVQZVHvnTZJ+Mf6b0nfCJ/CyhURIf09HqJiv9PlH/XEMxtA==",
   "success": true,
-  "projectFilePath": "/Users/alex/Desktop/OOP_Exercises-/Polymorphism_Exercise/WildFarm/WildFarm.csproj",
+  "projectFilePath": "/Users/alex/Desktop/OOP_Exercises-Git/Polymorphism_Exercise/WildFarm/WildFarm.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

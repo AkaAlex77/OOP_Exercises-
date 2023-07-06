@@ -7,4 +7,28 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="Core\" />
+    <None Remove="Core\Interfaces\" />
+    <None Remove="Factories\" />
+    <None Remove="Factories\Interfaces\" />
+    <None Remove="IO\" />
+    <None Remove="IO\Interfaces\" />
+    <None Remove="Models\" />
+    <None Remove="Models\Animals\" />
+    <None Remove="Models\Interfaces\" />
+    <None Remove="Models\Foods\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Core\" />
+    <Folder Include="Core\Interfaces\" />
+    <Folder Include="Factories\" />
+    <Folder Include="Factories\Interfaces\" />
+    <Folder Include="IO\" />
+    <Folder Include="IO\Interfaces\" />
+    <Folder Include="Models\" />
+    <Folder Include="Models\Animals\" />
+    <Folder Include="Models\Interfaces\" />
+    <Folder Include="Models\Foods\" />
+  </ItemGroup>
 </Project>
